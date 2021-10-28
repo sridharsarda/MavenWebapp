@@ -7,7 +7,6 @@
 <title>HTC Global Services - Home Page</title>
 <link href="images/HTC.jpg" rel="icon">
 </head>
-</head>
 <body bgcolor="lightblue">
 <P align=right>Date: <%= new java.util.Date() %></P>
 <P align=right><%String ip = "";
